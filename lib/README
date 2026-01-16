@@ -1,0 +1,15 @@
+# Vasloth Light Sensor
+
+Libreria oficial Vasloth Hardware para sensores de luz analogicos encapsulados.
+
+## Caracteristicas
+- Oversampling y descarte de ruido
+- Filtro EMA
+- Calibracion por comandos serial (MIN / MAX)
+- Salida normalizada 0–100 %
+
+## Compatibilidad
+- ESP32
+
+## Uso
+Ver ejemplos incluidos.
